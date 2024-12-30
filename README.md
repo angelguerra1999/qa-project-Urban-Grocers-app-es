@@ -10,21 +10,20 @@ Verificar la correcta creación de kits de alimentos.
 Asegurar la integridad de los datos enviados y recibidos.
 Validar las respuestas de la API para diferentes escenarios de prueba.
 
-Tecnologías Utilizadas
-Pycharm
-Python
-Pytest
-Git
-GitHub
-
+Tecnologías Utilizadas: Pycharm, Python, Pytest, Git, GitHub
 
 Archivos
 
  `configuration.py`: Contiene las configuraciones de URL y rutas.
+ 
  `data.py`: Contiene los datos necesarios para las solicitudes.
+ 
  `sender_stand_request.py`: Contiene las funciones para enviar solicitudes a la API.
+ 
  `create_kit_name_kit_test.py`: Contiene las pruebas automatizadas.
+ 
  `README.md`: Este archivo con una descripción del proyecto.
+ 
  `.gitignore`: Lista de archivos y carpetas que Git debería ignorar.
 
 Pruebas automatizadas en archivo create_kit_name_test.py
