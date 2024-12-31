@@ -61,7 +61,7 @@ Clona el repositorio en tu computadora: https://github.com/angelguerra1999/qa-pr
 
 Navegar al directorio del proyecto: cd urban-grocers-api-testing
 
-Instalar las dependencias: pip install, request 
+Instalar las dependencias: pip install -r requirements.txt
 
 Ejecutar las pruebas: pytest
 
